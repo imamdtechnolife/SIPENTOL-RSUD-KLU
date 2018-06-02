@@ -11,7 +11,6 @@ import android.webkit.WebViewClient;
 public class MainActivity extends Activity {
     private WebView mWebView;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
